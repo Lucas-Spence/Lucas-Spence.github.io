@@ -5,4 +5,4 @@ Data Storytelling
 
 I am Lucas Spence, a senior at Lehigh University. I am majoring in Finance with a marketing track. I am a member of the mens varsity lacrosse team. 
 
-[Lucas Spence @ LinkedIn Account](https://www.linkedin.com/in/lucas-spence-39b33912a/)
+[Lucas Spence @ LinkedIn](https://www.linkedin.com/in/lucas-spence-39b33912a/)
