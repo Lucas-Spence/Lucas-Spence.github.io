@@ -11,9 +11,9 @@ I am Lucas Spence, a senior at Lehigh University. I am majoring in Finance with 
 ### Projects
 ###### Lehigh Enrollment Practice Project Pie Chart
  This project was built using datawrapper. It was our first time working with this software. 
-[Lehigh 2017 Enrollment Information] 
+
 <iframe id="datawrapper-chart-IqpP8" src="//datawrapper.dwcdn.net/IqpP8/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="412"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["IqpP8"]={},window.datawrapper["IqpP8"].embedDeltas={"100":602,"200":490,"300":429,"400":412,"500":412,"700":412,"800":395,"900":395,"1000":395},window.datawrapper["IqpP8"].iframe=document.getElementById("datawrapper-chart-IqpP8"),window.datawrapper["IqpP8"].iframe.style.height=window.datawrapper["IqpP8"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["IqpP8"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("IqpP8"==b)window.datawrapper["IqpP8"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
 
 ###### Lehigh Enrollment Practice Project Bar Chart
-[Lehigh 2017 Enrollment Information]
+
 <iframe id="datawrapper-chart-0Amug" src="//datawrapper.dwcdn.net/0Amug/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="259"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["0Amug"]={},window.datawrapper["0Amug"].embedDeltas={"100":364,"200":303,"300":276,"400":259,"500":259,"700":259,"800":259,"900":259,"1000":259},window.datawrapper["0Amug"].iframe=document.getElementById("datawrapper-chart-0Amug"),window.datawrapper["0Amug"].iframe.style.height=window.datawrapper["0Amug"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["0Amug"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("0Amug"==b)window.datawrapper["0Amug"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
