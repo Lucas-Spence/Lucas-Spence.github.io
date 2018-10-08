@@ -28,4 +28,4 @@ For assignment 1 I decided to look at how much each current starting quarterback
 
 ##### Project 2 - Parsehub Datascrapping
 
-[Datascrapping Project](file:///C:/Users/lucas/Documents/Parsehub%20Hw%20Lehigh%20Jobs.pdf)
+[Datascrapping Project](file:///C:/Users/lucas/Documents/Parsehub%20Hw%20Lehigh%20Jobs.csv.htm)
